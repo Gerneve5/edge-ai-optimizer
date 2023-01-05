@@ -2,3 +2,4 @@ Commit at 2023-01-02T10:14:30: Add unit tests for new features
 Commit at 2023-01-03T17:32:14: Optimize memory usage
 Commit at 2023-01-04T12:41:58: Refactor training loop
 Commit at 2023-01-04T14:40:37: Drafting core components
+Commit at 2023-01-05T15:37:39: Add support for new model architectures
