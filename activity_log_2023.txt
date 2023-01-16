@@ -6,3 +6,4 @@ Commit at 2023-01-05T15:37:39: Add support for new model architectures
 Commit at 2023-01-12T17:31:33: Fix minor bug in data processing
 Commit at 2023-01-12T10:25:49: Add unit tests for new features
 Commit at 2023-01-16T17:37:53: Fix minor bug in data processing
+Commit at 2023-01-16T16:50:40: Refactor training loop
