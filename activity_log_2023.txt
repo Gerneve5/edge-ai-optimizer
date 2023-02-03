@@ -17,3 +17,4 @@ Commit at 2023-01-27T10:54:39: Add support for new model architectures
 Commit at 2023-01-28T13:09:18: Improve error handling
 Commit at 2023-01-30T17:35:43: Drafting core components
 Commit at 2023-01-31T12:15:17: Add unit tests for new features
+Commit at 2023-02-03T17:44:20: Update README with new benchmarks
