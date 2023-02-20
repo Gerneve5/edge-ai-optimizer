@@ -25,3 +25,4 @@ Commit at 2023-02-13T15:07:59: Fix edge case in sensor fusion
 Commit at 2023-02-14T13:21:29: Initial research on model architecture
 Commit at 2023-02-15T11:06:45: Add support for new model architectures
 Commit at 2023-02-15T13:44:59: Add visualization tools
+Commit at 2023-02-20T11:07:50: Initial research on model architecture
