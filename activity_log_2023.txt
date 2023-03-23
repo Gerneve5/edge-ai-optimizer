@@ -41,3 +41,4 @@ Commit at 2023-03-15T09:01:21: Drafting core components
 Commit at 2023-03-21T09:41:43: Implement new optimization algorithm
 Commit at 2023-03-22T16:07:38: Update dependencies
 Commit at 2023-03-23T15:36:41: Update dependencies
+Commit at 2023-03-23T14:59:41: Initial research on model architecture
