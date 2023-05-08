@@ -61,3 +61,4 @@ Commit at 2023-04-24T09:47:19: Drafting core components
 Commit at 2023-04-27T18:28:55: Refactor core logic for better performance
 Commit at 2023-04-28T16:46:50: Add unit tests for new features
 Commit at 2023-05-03T12:08:46: Add unit tests for new features
+Commit at 2023-05-08T10:56:54: Refactor training loop
