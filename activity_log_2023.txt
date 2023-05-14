@@ -65,3 +65,4 @@ Commit at 2023-05-08T10:56:54: Refactor training loop
 Commit at 2023-05-08T14:11:05: Implement new optimization algorithm
 Commit at 2023-05-10T10:40:05: Clean up code and remove unused imports
 Commit at 2023-05-12T10:00:51: Refactor training loop
+Commit at 2023-05-14T11:15:12: Add support for new model architectures
