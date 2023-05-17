@@ -68,3 +68,4 @@ Commit at 2023-05-12T10:00:51: Refactor training loop
 Commit at 2023-05-14T11:15:12: Add support for new model architectures
 Commit at 2023-05-15T15:46:38: Fix edge case in sensor fusion
 Commit at 2023-05-16T13:24:13: Add support for new model architectures
+Commit at 2023-05-17T14:58:24: Add support for new model architectures
