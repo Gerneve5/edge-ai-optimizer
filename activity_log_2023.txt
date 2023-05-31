@@ -75,3 +75,4 @@ Commit at 2023-05-23T09:49:58: Fix minor bug in data processing
 Commit at 2023-05-23T11:20:19: Improve error handling
 Commit at 2023-05-25T09:24:30: Add visualization tools
 Commit at 2023-05-26T15:21:04: Update dependencies
+Commit at 2023-05-31T11:10:42: Add support for new model architectures
