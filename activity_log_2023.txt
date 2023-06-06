@@ -80,3 +80,4 @@ Commit at 2023-05-31T15:04:17: Refactor training loop
 Commit at 2023-06-01T13:09:14: Add unit tests for new features
 Commit at 2023-06-02T17:44:29: Update documentation and examples
 Commit at 2023-06-05T13:32:34: Drafting core components
+Commit at 2023-06-06T12:54:54: Refactor training loop
