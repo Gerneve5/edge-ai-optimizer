@@ -88,4 +88,8 @@ def measure_sparsity(model):
 # Line 56: Advanced optimization logic for edge deployment
 # Line 57: Advanced optimization logic for edge deployment
 # Line 58: Advanced optimization logic for edge deployment
-# Line 59: Advanced optimization logic for edge deployment
+# Line 59: Advanced optimization logic for edge deploymentimport torch
+import torch.nn as nn
+import torch.nn.utils.prune as prune
+
+def apply_pruning(model, amount=0.5):
