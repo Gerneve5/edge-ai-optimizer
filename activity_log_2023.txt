@@ -83,3 +83,4 @@ Commit at 2023-06-05T13:32:34: Drafting core components
 Commit at 2023-06-06T12:54:54: Refactor training loop
 Commit at 2023-06-12T15:23:32: Fix minor bug in data processing
 Commit at 2023-06-13T15:04:47: Drafting core components
+Commit at 2023-06-14T18:41:48: Add visualization tools
