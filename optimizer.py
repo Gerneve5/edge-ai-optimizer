@@ -93,3 +93,8 @@ import torch.nn as nn
 import torch.nn.utils.prune as prune
 
 def apply_pruning(model, amount=0.5):
+    parameters_to_prune = []
+    for name, module in model.named_modules():
+        if isinstance(module, (nn.Linear, nn.Conv2d)):
+            parameters_to_prune.append((module, "weight"))
+    if parameters_to_prune:
