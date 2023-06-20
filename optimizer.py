@@ -98,3 +98,8 @@ def apply_pruning(model, amount=0.5):
         if isinstance(module, (nn.Linear, nn.Conv2d)):
             parameters_to_prune.append((module, "weight"))
     if parameters_to_prune:
+        prune.global_unstructured(parameters_to_prune, pruning_method=prune.L1Unstructured, amount=amount)
+        print(f"Applied pruning: {amount*100}% removed.")
+
+def quantize_model(model):
+    model.eval()
