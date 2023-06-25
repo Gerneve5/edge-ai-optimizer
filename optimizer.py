@@ -103,3 +103,8 @@ def apply_pruning(model, amount=0.5):
 
 def quantize_model(model):
     model.eval()
+    model.qconfig = torch.quantization.get_default_qconfig('fbgemm')
+    torch.quantization.prepare(model, inplace=True)
+    torch.quantization.convert(model, inplace=True)
+    return model
+
