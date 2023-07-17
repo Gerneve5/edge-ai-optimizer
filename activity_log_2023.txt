@@ -101,3 +101,4 @@ Commit at 2023-07-10T18:01:05: Update dependencies
 Commit at 2023-07-11T14:13:16: Update README with new benchmarks
 Commit at 2023-07-14T11:15:43: Optimize memory usage
 Commit at 2023-07-14T14:25:58: Initial research on model architecture
+Commit at 2023-07-17T14:24:25: Drafting core components
