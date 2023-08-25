@@ -121,3 +121,4 @@ Commit at 2023-08-17T09:43:28: Update README with new benchmarks
 Commit at 2023-08-21T10:10:17: Add unit tests for new features
 Commit at 2023-08-22T14:34:29: Update documentation and examples
 Commit at 2023-08-24T16:20:14: Refactor training loop
+Commit at 2023-08-25T13:03:31: Update dependencies
