@@ -131,3 +131,4 @@ Commit at 2023-09-07T17:26:25: Implement new optimization algorithm
 Commit at 2023-09-08T16:15:10: Refactor core logic for better performance
 Commit at 2023-09-13T17:42:44: Improve error handling
 Commit at 2023-09-14T12:08:28: Refactor training loop
+Commit at 2023-09-18T09:40:51: Update README with new benchmarks
