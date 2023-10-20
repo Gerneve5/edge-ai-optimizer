@@ -154,3 +154,4 @@ Commit at 2023-10-16T13:00:03: Fix edge case in sensor fusion
 Commit at 2023-10-17T13:52:54: Update README with new benchmarks
 Commit at 2023-10-18T16:31:42: Initial research on model architecture
 Commit at 2023-10-19T17:47:15: Drafting core components
+Commit at 2023-10-20T18:48:23: Drafting core components
