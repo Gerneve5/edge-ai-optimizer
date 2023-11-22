@@ -174,3 +174,4 @@ Commit at 2023-11-15T11:28:15: Add unit tests for new features
 Commit at 2023-11-17T16:09:37: Initial research on model architecture
 Commit at 2023-11-17T14:59:39: Refactor training loop
 Commit at 2023-11-20T10:40:30: Enhance logging and monitoring
+Commit at 2023-11-22T14:48:29: Clean up code and remove unused imports
