@@ -179,3 +179,4 @@ Commit at 2023-11-23T17:43:54: Setting up development environment
 Commit at 2023-11-27T11:24:56: Fix minor bug in data processing
 Commit at 2023-11-28T11:40:36: Drafting core components
 Commit at 2023-11-29T18:36:05: Initial research on model architecture
+Commit at 2023-11-30T12:59:25: Initial research on model architecture
