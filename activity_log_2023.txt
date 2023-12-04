@@ -181,3 +181,4 @@ Commit at 2023-11-28T11:40:36: Drafting core components
 Commit at 2023-11-29T18:36:05: Initial research on model architecture
 Commit at 2023-11-30T12:59:25: Initial research on model architecture
 Commit at 2023-11-30T11:58:49: Enhance logging and monitoring
+Commit at 2023-12-04T17:37:44: Refactor core logic for better performance
