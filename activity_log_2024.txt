@@ -3,3 +3,4 @@ Commit at 2024-01-03T12:13:46: Update documentation and examples
 Commit at 2024-01-04T14:54:41: Add visualization tools
 Commit at 2024-01-04T13:09:53: Optimize memory usage
 Commit at 2024-01-05T11:09:10: Add visualization tools
+Commit at 2024-01-08T17:41:11: Implement new optimization algorithm
