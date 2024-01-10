@@ -204,3 +204,4 @@ Commit at 2024-01-05T16:41:52: Improve error handling
 Commit at 2024-01-05T13:59:07: Refactor training loop
 Commit at 2024-01-08T17:25:20: Implement new optimization algorithm
 Commit at 2024-01-09T18:20:26: Refactor training loop
+Commit at 2024-01-10T15:16:16: Drafting core components
