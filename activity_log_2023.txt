@@ -208,3 +208,4 @@ Commit at 2024-01-10T15:16:16: Drafting core components
 Commit at 2024-01-11T09:06:40: Update documentation and examples
 Commit at 2024-01-15T18:37:14: Add visualization tools
 Commit at 2024-01-16T11:23:06: Update dependencies
+Commit at 2024-01-17T11:59:25: Add support for new model architectures
