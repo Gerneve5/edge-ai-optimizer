@@ -26,3 +26,4 @@ Commit at 2024-01-26T10:07:15: Implement new optimization algorithm
 Commit at 2024-01-29T13:16:15: Improve model convergence
 Commit at 2024-01-30T18:21:35: Optimize memory usage
 Commit at 2024-01-31T18:07:30: Implement new optimization algorithm
+Commit at 2024-02-01T14:07:19: Update documentation and examples
