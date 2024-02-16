@@ -228,3 +228,4 @@ Commit at 2024-02-13T18:40:54: Optimize memory usage
 Commit at 2024-02-14T18:41:08: Implement new optimization algorithm
 Commit at 2024-02-14T18:48:06: Improve error handling
 Commit at 2024-02-15T18:08:13: Update dependencies
+Commit at 2024-02-16T10:51:54: Update README with new benchmarks
