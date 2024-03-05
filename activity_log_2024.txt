@@ -50,3 +50,4 @@ Commit at 2024-02-29T11:03:04: Optimize memory usage
 Commit at 2024-03-01T09:42:10: Update hyperparameter tuning scripts
 Commit at 2024-03-01T13:07:36: Update dependencies
 Commit at 2024-03-05T17:29:05: Optimize memory usage
+Commit at 2024-03-05T16:21:45: Fix edge case in sensor fusion
