@@ -72,3 +72,4 @@ Commit at 2024-03-26T16:55:31: Improve model convergence
 Commit at 2024-03-27T13:36:00: Refactor training loop
 Commit at 2024-03-28T14:18:32: Fix minor bug in data processing
 Commit at 2024-03-28T16:16:37: Update documentation and examples
+Commit at 2024-03-28T14:25:12: Update README with new benchmarks
