@@ -77,3 +77,4 @@ Commit at 2024-03-29T11:31:27: Add unit tests for new features
 Commit at 2024-03-29T10:28:20: Refactor core logic for better performance
 Commit at 2024-04-04T11:43:59: Update documentation and examples
 Commit at 2024-04-04T17:21:06: Add support for mixed precision training
+Commit at 2024-04-05T11:26:23: Optimize memory usage
