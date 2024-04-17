@@ -90,3 +90,4 @@ Commit at 2024-04-12T16:19:06: Clean up code and remove unused imports
 Commit at 2024-04-15T14:47:24: Refactor core logic for better performance
 Commit at 2024-04-16T17:48:50: Add unit tests for new features
 Commit at 2024-04-17T16:57:00: Add visualization tools
+Commit at 2024-04-17T11:13:25: Add support for mixed precision training
