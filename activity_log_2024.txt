@@ -110,3 +110,4 @@ Commit at 2024-05-01T14:35:28: Add unit tests for new features
 Commit at 2024-05-02T10:44:00: Update documentation and examples
 Commit at 2024-05-02T10:29:55: Update README with new benchmarks
 Commit at 2024-05-03T16:33:06: Fix minor bug in data processing
+Commit at 2024-05-04T13:16:18: Fix edge case in sensor fusion
