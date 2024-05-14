@@ -117,3 +117,4 @@ Commit at 2024-05-09T13:28:44: Update hyperparameter tuning scripts
 Commit at 2024-05-10T11:49:05: Add visualization tools
 Commit at 2024-05-10T15:34:40: Add support for mixed precision training
 Commit at 2024-05-13T13:27:56: Fix edge case in sensor fusion
+Commit at 2024-05-14T11:28:39: Refactor training loop
