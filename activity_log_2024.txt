@@ -151,3 +151,4 @@ Commit at 2024-06-14T14:44:22: Fix edge case in sensor fusion
 Commit at 2024-06-17T11:40:45: Refactor core logic for better performance
 Commit at 2024-06-17T13:52:53: Update hyperparameter tuning scripts
 Commit at 2024-06-18T12:07:11: Add visualization tools
+Commit at 2024-06-18T14:23:15: Fix edge case in sensor fusion
