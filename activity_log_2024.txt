@@ -194,3 +194,4 @@ Commit at 2024-08-08T13:44:40: Clean up code and remove unused imports
 Commit at 2024-08-08T10:12:10: Improve model convergence
 Commit at 2024-08-13T12:50:10: Refactor core logic for better performance
 Commit at 2024-08-14T09:02:12: Add support for new model architectures
+Commit at 2024-08-15T15:40:37: Refactor training loop
