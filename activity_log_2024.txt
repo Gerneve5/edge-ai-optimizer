@@ -206,3 +206,4 @@ Commit at 2024-08-28T14:56:05: Implement new optimization algorithm
 Commit at 2024-08-30T15:56:46: Update dependencies
 Commit at 2024-09-02T13:12:42: Refactor training loop
 Commit at 2024-09-03T11:41:49: Update dependencies
+Commit at 2024-09-04T13:45:33: Update README with new benchmarks
