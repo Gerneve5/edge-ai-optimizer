@@ -208,3 +208,4 @@ Commit at 2024-09-02T13:12:42: Refactor training loop
 Commit at 2024-09-03T11:41:49: Update dependencies
 Commit at 2024-09-04T13:45:33: Update README with new benchmarks
 Commit at 2024-09-05T14:24:59: Fix edge case in sensor fusion
+Commit at 2024-09-05T17:42:07: Improve error handling
