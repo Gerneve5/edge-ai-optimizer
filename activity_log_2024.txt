@@ -226,3 +226,4 @@ Commit at 2024-09-19T11:00:34: Improve model convergence
 Commit at 2024-09-19T11:28:00: Optimize memory usage
 Commit at 2024-09-20T18:14:10: Update hyperparameter tuning scripts
 Commit at 2024-09-23T13:34:17: Improve model convergence
+Commit at 2024-09-23T16:27:59: Update README with new benchmarks
