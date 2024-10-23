@@ -253,3 +253,4 @@ Commit at 2024-10-16T10:37:12: Fix edge case in sensor fusion
 Commit at 2024-10-17T17:44:11: Add unit tests for new features
 Commit at 2024-10-17T17:59:17: Improve model convergence
 Commit at 2024-10-18T13:40:31: Add support for new model architectures
+Commit at 2024-10-23T10:43:24: Improve error handling
