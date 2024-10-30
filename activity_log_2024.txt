@@ -259,3 +259,4 @@ Commit at 2024-10-25T13:11:32: Fix minor bug in data processing
 Commit at 2024-10-29T17:09:26: Update hyperparameter tuning scripts
 Commit at 2024-10-29T18:17:18: Add visualization tools
 Commit at 2024-10-30T12:00:27: Add visualization tools
+Commit at 2024-10-30T15:19:40: Update README with new benchmarks
