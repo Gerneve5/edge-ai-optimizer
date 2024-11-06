@@ -1,3 +1,4 @@
 Commit at 2024-11-01T18:34:28: Update documentation and examples
 Commit at 2024-11-06T11:13:31: Update documentation and examples
 Commit at 2024-11-06T15:05:29: Optimize memory usage
+Commit at 2024-11-06T17:02:11: Update README with new benchmarks
