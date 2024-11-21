@@ -15,3 +15,4 @@ Commit at 2024-11-19T12:48:44: Add unit tests for new features
 Commit at 2024-11-20T13:57:45: Update documentation and examples
 Commit at 2024-11-20T15:21:19: Update README with new benchmarks
 Commit at 2024-11-21T17:06:01: Update documentation and examples
+Commit at 2024-11-21T10:58:55: Add support for new model architectures
