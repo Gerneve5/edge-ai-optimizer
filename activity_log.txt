@@ -14,3 +14,4 @@ Commit at 2024-11-18T13:38:15: Fix edge case in sensor fusion
 Commit at 2024-11-19T12:48:44: Add unit tests for new features
 Commit at 2024-11-20T13:57:45: Update documentation and examples
 Commit at 2024-11-20T15:21:19: Update README with new benchmarks
+Commit at 2024-11-21T17:06:01: Update documentation and examples
