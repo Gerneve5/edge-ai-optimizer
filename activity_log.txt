@@ -17,3 +17,4 @@ Commit at 2024-11-20T15:21:19: Update README with new benchmarks
 Commit at 2024-11-21T17:06:01: Update documentation and examples
 Commit at 2024-11-21T10:58:55: Add support for new model architectures
 Commit at 2024-11-25T14:46:45: Fix edge case in sensor fusion
+Commit at 2024-11-27T14:22:05: Fix minor bug in data processing
