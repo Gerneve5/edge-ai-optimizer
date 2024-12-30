@@ -49,3 +49,4 @@ Commit at 2024-12-23T14:17:50: Update README with new benchmarks
 Commit at 2024-12-24T16:42:45: Clean up code and remove unused imports
 Commit at 2024-12-24T14:01:02: Clean up code and remove unused imports
 Commit at 2024-12-26T16:46:36: Update README with new benchmarks
+Commit at 2024-12-30T17:39:20: Add support for new model architectures
