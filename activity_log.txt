@@ -67,3 +67,4 @@ Commit at 2025-01-08T10:19:12: Refactor training loop
 Commit at 2025-01-09T17:28:08: Add support for new model architectures
 Commit at 2025-01-10T18:10:14: Refactor core logic for better performance
 Commit at 2025-01-10T14:57:42: Update README with new benchmarks
+Commit at 2025-01-13T14:27:44: Clean up code and remove unused imports
