@@ -95,3 +95,4 @@ Commit at 2025-01-30T15:50:39: Clean up code and remove unused imports
 Commit at 2025-01-31T12:18:29: Add support for new model architectures
 Commit at 2025-01-31T11:12:12: Update README with new benchmarks
 Commit at 2025-02-03T11:41:24: Update dependencies
+Commit at 2025-02-04T11:35:53: Enhance logging and monitoring
