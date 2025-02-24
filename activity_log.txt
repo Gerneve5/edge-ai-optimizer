@@ -115,3 +115,4 @@ Commit at 2025-02-19T17:10:37: Add support for new model architectures
 Commit at 2025-02-20T14:50:50: Clean up code and remove unused imports
 Commit at 2025-02-21T14:46:21: Update documentation and examples
 Commit at 2025-02-21T11:41:39: Fix minor bug in data processing
+Commit at 2025-02-24T12:31:32: Add visualization tools
