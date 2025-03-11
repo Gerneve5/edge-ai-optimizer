@@ -127,3 +127,4 @@ Commit at 2025-03-04T10:08:46: Implement new optimization algorithm
 Commit at 2025-03-04T12:06:26: Update README with new benchmarks
 Commit at 2025-03-05T10:18:37: Clean up code and remove unused imports
 Commit at 2025-03-07T17:02:23: Add visualization tools
+Commit at 2025-03-11T13:40:09: Refactor core logic for better performance
