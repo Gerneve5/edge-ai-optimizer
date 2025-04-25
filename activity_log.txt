@@ -172,3 +172,4 @@ Commit at 2025-04-21T11:43:47: Update README with new benchmarks
 Commit at 2025-04-22T11:28:42: Update dependencies
 Commit at 2025-04-23T11:42:45: Update dependencies
 Commit at 2025-04-24T18:46:22: Implement new optimization algorithm
+Commit at 2025-04-25T18:01:50: Add support for new model architectures
