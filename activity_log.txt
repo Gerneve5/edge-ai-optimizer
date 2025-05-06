@@ -181,3 +181,4 @@ Commit at 2025-04-30T18:45:24: Fix minor bug in data processing
 Commit at 2025-05-01T11:54:50: Update documentation and examples
 Commit at 2025-05-02T16:46:29: Update documentation and examples
 Commit at 2025-05-02T18:55:33: Fix minor bug in data processing
+Commit at 2025-05-06T15:20:18: Add unit tests for new features
