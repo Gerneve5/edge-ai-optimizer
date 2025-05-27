@@ -203,3 +203,4 @@ Commit at 2025-05-23T09:17:46: Update dependencies
 Commit at 2025-05-26T18:12:45: Add visualization tools
 Commit at 2025-05-26T10:55:01: Improve error handling
 Commit at 2025-05-26T11:30:45: Refactor training loop
+Commit at 2025-05-27T16:22:24: Add support for new model architectures
