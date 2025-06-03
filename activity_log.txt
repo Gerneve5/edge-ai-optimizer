@@ -212,3 +212,4 @@ Commit at 2025-05-30T18:55:49: Fix edge case in sensor fusion
 Commit at 2025-05-30T18:01:12: Add unit tests for new features
 Commit at 2025-06-02T14:30:08: Add support for new model architectures
 Commit at 2025-06-02T15:40:33: Clean up code and remove unused imports
+Commit at 2025-06-03T12:29:07: Improve error handling
