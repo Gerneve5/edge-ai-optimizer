@@ -230,3 +230,4 @@ Commit at 2025-06-12T15:41:00: Update documentation and examples
 Commit at 2025-06-13T11:31:45: Refactor training loop
 Commit at 2025-06-13T13:17:49: Update README with new benchmarks
 Commit at 2025-06-16T12:33:46: Refactor training loop
+Commit at 2025-06-17T14:56:37: Update README with new benchmarks
