@@ -278,3 +278,4 @@ Commit at 2025-07-30T09:35:46: Update dependencies
 Commit at 2025-07-31T09:42:56: Refactor training loop
 Commit at 2025-08-01T12:22:51: Fix edge case in sensor fusion
 Commit at 2025-08-01T10:10:33: Update dependencies
+Commit at 2025-08-04T14:30:52: Add support for new model architectures
