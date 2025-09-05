@@ -316,3 +316,4 @@ Commit at 2025-09-02T15:19:22: Update README with new benchmarks
 Commit at 2025-09-03T13:06:57: Refactor core logic for better performance
 Commit at 2025-09-03T11:11:32: Improve error handling
 Commit at 2025-09-04T18:09:29: Clean up code and remove unused imports
+Commit at 2025-09-05T13:59:55: Improve error handling
