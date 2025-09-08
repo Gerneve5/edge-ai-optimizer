@@ -319,3 +319,4 @@ Commit at 2025-09-04T18:09:29: Clean up code and remove unused imports
 Commit at 2025-09-05T13:59:55: Improve error handling
 Commit at 2025-09-05T14:32:46: Add support for new model architectures
 Commit at 2025-09-08T12:43:41: Update documentation and examples
+Commit at 2025-09-08T18:54:54: Improve error handling
