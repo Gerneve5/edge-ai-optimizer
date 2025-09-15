@@ -324,3 +324,4 @@ Commit at 2025-09-09T14:49:21: Fix edge case in sensor fusion
 Commit at 2025-09-10T11:03:21: Add visualization tools
 Commit at 2025-09-11T15:15:20: Update README with new benchmarks
 Commit at 2025-09-12T11:24:15: Update README with new benchmarks
+Commit at 2025-09-15T14:26:29: Clean up code and remove unused imports
