@@ -346,3 +346,4 @@ Commit at 2025-10-06T09:25:44: Add support for new model architectures
 Commit at 2025-10-07T10:53:13: Fix minor bug in data processing
 Commit at 2025-10-08T16:25:38: Fix minor bug in data processing
 Commit at 2025-10-10T17:35:20: Refactor core logic for better performance
+Commit at 2025-10-14T18:31:14: Update README with new benchmarks
